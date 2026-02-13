@@ -180,16 +180,56 @@ retail-intelligence/
 | At Risk | 1-2 | 4-5 | 4-5 | Win back, re-engage |
 | Lost | 1 | 1 | 1-5 | Ignore or win back |
 
-## 👨‍💻 Developer
-
-**Akshay Tiwari**  
-Retail Analytics Specialist  
-Email: akshay.tiwari@example.com
-
 ## 📝 License
 
-MIT License - Academic Project
+MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-**© 2026 Akshay Tiwari. All Rights Reserved.**
+## 👨‍💻 Developer
+
+**Akshay Tiwari**
+- Data Analyst | Buisness Intelligence 
+- Email: tiwariaksh25@gmail.com
+
+**Ayush patidar**
+- Web Developer | Software Tester 
+- Email: ayushpatidar@gmail.com
+
+---
+
+## 🎓 Academic Information
+
+**Institution:** Medicaps University 
+
+**Program:** Data Analytics / Business intelligence 
+
+**Year:** 2025 
+
+**Project Type:** Learning Purpose 
+
+---
+
+## 🙏 Acknowledgments
+
+- Python community for amazing libraries
+- SQLite for lightweight database
+- Plotly for interactive visualizations
+- College professors for guidance
+- Streamlit cloud for deployment 
+
+---
+
+## 📞 Support
+
+For questions or issues:
+- 📧 Email: tiwariaksh25@gmail.com
+- 🐛 GitHub Issues: [Create Issue]
+- 📖 Documentation: See setup guides
+
+---
+
+**© 2025 Akshay Tiwari | Aayush Patidar. All Rights Reserved.**
+
+*Built with 💙 for data analytics*
+
